@@ -41,6 +41,7 @@ $ docker-compose exec workspace bash
    php artisan storage:link
 exit
 ```
+#### Test
 - run tests (uses model factories to seed database)
 ```bash
 $ docker-compose exec workspace bash
