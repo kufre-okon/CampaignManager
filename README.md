@@ -13,7 +13,7 @@ $ cp .env.example .env
 $ composer install
 $ php artisan key:generate
 ```
-- cloned laradock repository into the main project
+- clone laradock repository into the main project
 ```bash
 $ git clone https://github.com/laradock/laradock.git
 ```
